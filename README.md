@@ -1,6 +1,7 @@
 # Educational-Documentation
 
-**Minecraft Website/Database**
+# Minecraft Website/Database
+
 The Minecraft website is connected to a Firebase Realtime Database. This is a cloud-hosted database where the data is stored as a JSON object and synchronized in real time with every connected client. The purpose of this database is to store the Minecraft build commands for the Discord bot and Minecraft server to read. This database has two sections. One section is a list of users, each containing a unique key. Under this unique key, each Minecraft build is stored. Under the build name, the Minecraft commands necessary to create the build are listed. The second section is a username section. Each username has a unique key attached to it. This key and associated username can be mapped to the user section to find the Minecraft builds for any user.
 
 ![Image goes here](https://firebasestorage.googleapis.com/v0/b/first-project-df435.appspot.com/o/Database.png?alt=media&token=97428be4-fcc9-4b4b-bd5d-586de9e7c943)
