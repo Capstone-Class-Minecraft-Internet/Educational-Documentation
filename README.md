@@ -7,4 +7,3 @@ To learn more about this project and how we started, check out [Who We Are](http
 # How This Works
 To learn more about each component and the computer science behind this application, please visit [Educational Documentation](https://capstone-class-minecraft-internet.github.io/How-This-Works/).
 
-
