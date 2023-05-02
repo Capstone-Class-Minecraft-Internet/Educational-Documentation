@@ -1,4 +1,3 @@
-# Educational-Documentation
 
 # Minecraft Website/Database
 
